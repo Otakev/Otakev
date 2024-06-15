@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Victhor Stos 😼</h1>
-<h3 align="center">🖥️ Um estudante de programação de São Paulo 📚</h3> <img align="right" src="https://i.imgur.com/GlCyEUq.png" alt="eu" height="180" width="180"  >
+<h3 align="center">🖥️ Um estudante de programação de São Paulo 📚</h3> <img align="right" src="https://i.imgur.com/slKUdxJ.jpeg" alt="eu" height="180" width="180"  >
 
 <p align="left"> <a href="https://twitter.com/otekev?" target="blank"><img src="https://img.shields.io/twitter/follow/otekev??logo=twitter&style=for-the-badge" alt="otekev?" /></a> </p>
 - 🔭 Atualmente estou trabalhando como Programador Back-End✨
